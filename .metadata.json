@@ -1,6 +1,6 @@
 [
   {
     "package": "silicate",
-    "oncran": false
+    "oncran": true
   }
 ]

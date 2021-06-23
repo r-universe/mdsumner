@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "silicate"]
 	path = silicate
-	url = https://github.com/mdsumner/silicate
+	url = https://github.com/hypertidy/silicate
 	shallow = true
 	registered = true
