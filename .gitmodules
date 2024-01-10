@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mdsumner/universe
-	shallow = true
 	branch = HEAD
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/hypertidy/silicate
-	shallow = true
-	registered = true
