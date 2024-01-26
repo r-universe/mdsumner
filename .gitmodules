@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mdsumner/universe
+	url = https://github.com/mdsumner/mdsumner.r-universe.dev
 	branch = HEAD
 [submodule "silicate"]
 	path = silicate
